@@ -5,12 +5,6 @@ PCT_FDS_UK_2023_10_13
 https://www.dropbox.com/s/41nivrxk9px14gy/main.exe?dl=0
 ## Download FDS 'main' file: Please download by Dropbox linking as following, (150 MB)
 
-Alert: the downloaded 'main' file should be put into the same working directory
-
-       please rename downloaded file as 'main' 
-
-https://www.dropbox.com/s/7nvczytm7ujqiys/main_V03?dl=0
-
 ## Running procedures in brief:
 
 ## (Step 1) Run main program (process_1) on your working directory

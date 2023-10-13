@@ -110,11 +110,11 @@ picture right: process_2 output
  	
  <img width="851" alt="leave" src="https://user-images.githubusercontent.com/2010446/203468469-e7887ed5-d024-42e7-9132-3cb260b7607a.png">
 
+
  ## squat: 
 
  <img width="642" alt="squart" src="https://user-images.githubusercontent.com/2010446/203469240-c2ae297e-cb1f-4b9e-8399-f2abb6cf84a2.png">
 
  ## Parameter for Statemachine:
     
- <img width="851" alt="leave" src= "https://user-images.githubusercontent.com/2010446/206107572-80ab6797-cfb1-4dba-8931-54b64eadae5d.png">
-
+  ![FDS-GREENLINE](https://user-images.githubusercontent.com/2010446/209904267-6d906254-8735-42fc-b70e-e1089ee1ae7f.jpg)

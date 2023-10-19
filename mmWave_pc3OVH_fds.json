@@ -48,7 +48,7 @@
     "FDS": {
       "single_display": 1,
       "lineNotify": 1,
-      "notifyMessage": "(Dev)Falling Detected UK ",
+      "notifyMessage": "(Dev)UK_Falling Detected ",
       "dataLabel": "/tmp/mmWave_FDS",
       "notes": "For FDS function: 1 enable, 0: disable"
     },
